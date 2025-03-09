@@ -112,7 +112,7 @@ class DetailScreen extends StatelessWidget {
                     );
                   },
                 ),
-              ),
+              ), // Images Carousel
               SizedBox(height: 50), // Safe Area
             ],
           ),
